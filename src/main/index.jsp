@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>项目部署</title>
+    <title>杨洪文项目部署</title>
   </head>
   <body>
   $END$
