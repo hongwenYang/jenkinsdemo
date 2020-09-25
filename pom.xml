@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.bolingcavalry</groupId>
-	<artifactId>mavendockerplugindemo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<artifactId>jenkins_test</artifactId>
+	<version>1.0</version>
+	<packaging>war</packaging>
 
-	<name>mavendockerplugindemo</name>
+	<name>jenkins_test</name>
 	<description>maven docker plugin demo</description>
 
 	<parent>
